@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NoteGenix - Notes Table</title>
+    <link rel="icon" href="../../Assets/selectedng.png" type="image/png">
+    <link rel="stylesheet" href="../../StyleSheets/style.css">
+    <link rel="stylesheet" href="../NotesComponentsSem4/DCN.css">
+    <script src="../../Scripts/darkMode.js" defer></script>
+    <script src="./dm.js" defer></script>
+</head>
+<body>
+    <div id="container">
+        <div id="main">
+            <div id="heading">
+                <h1 id="title">NOTEGENIX</h1>
+                <h2 id="subtitle">No Cap. Just notes that hit harder than they did !</h2>
+                <p id="subtitle2">Notes Table<br>
+                    Access all your study materials in one place.<br> Click to view and download notes.</p>
+            </div>
+            <div class="notes-container">
+                <div class="notes-table">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Subject</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="notesTableBody">
+                            <!-- Notes will be dynamically added here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PDF Viewer Modal -->
+    <div id="pdfModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <iframe id="pdfViewer" frameborder="0"></iframe>
+        </div>
+    </div>
+
+    <div id="foot">
+        <p>&copy; 2025 NoteGenix</p>
+        <p>Contact Us:- 
+            <a href="mailto:thakurwanidakshh@gmail.com">thakurwanidakshh@gmail.com</a>
+        </p>
+        <p>
+            <a rel="noopener" href="https://x.com/offsidedebugger" target="_blank">
+                <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+                </svg>
+                @offsidedebugger
+            </a>
+        </p>
+    </div>
+</body>
+</html> 
