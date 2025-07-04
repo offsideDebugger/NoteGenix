@@ -17,7 +17,7 @@ window.addEventListener('load', function() {
   { title: "Ch-8", id: "1GR_vVEEuk6TEibxQojgz_Z3R2XjwGDWo", type: "slides" },
   { title: "Ch-9", id: "1GPofx3PcozsxQwGYgDuNkvHV8VSZExru", type: "slides" },
   { title: "Ch-9 Main Memory", id: "1GUQ5AGPXzfvMExpx8FXZ09uKggI_g-CG", type: "slides" },
-  { title: "Ch-10 Virtual Memoru", id: "1GRT9QXhXDPnBJ6P4H9n3spEArkDvJIMp", type: "slides" },
+  { title: "Ch-10 Virtual Memory", id: "1GRT9QXhXDPnBJ6P4H9n3spEArkDvJIMp", type: "slides" },
   { title: "Threads", id: "1XsyDnfVre9KamjB6nbdXSA7y86hENUFt", type: "slides" },
   { title: "Semaphores", id: "1H3WKfegzj2GmTc79gu3YZ4qPX6i5GnvA", type: "pdf" },
   { title: "Peterson's Algorithm", id: "1Gt9m-wiSVfrBcKVBTLj6dGUXC1pdd_qr", type: "pdf" },
