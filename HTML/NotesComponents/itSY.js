@@ -6,9 +6,9 @@ window.addEventListener('load', function() {
     
     // Sample notes data - Replace with your actual data
     const notes = [
-        { title: "Data Vizualisation", id: "1fl8ald25TPt3DXV8224jMzvQ_hvoDMTt" },
-        { title: "IT-skills", id: "1Y-FusfTgHYoEVoOqOPvyTDTkr_sBKA2R" },
-        { title: "Pandas", id: "1XydoPI2YkPEO2UFjWspgNcNIIMNUvJ1u" }
+        { title: "Numpy", id: "19FwIA7DUzmrsGuNwErb9MIQU3j6zkDJc" },
+        { title: "DataFrame", id: "1moVsbvGqYhNqVzd3GnHa8RcUQX5YdRq8" },
+        { title: "Series", id: "1N1UHzK_KZKEbpTnEprJPIBPb0r-rz_2o" }
       ];
       
       
