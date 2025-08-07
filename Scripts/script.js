@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function() {
     addNav("cwh","../HTML/NotesComponents/cwhSY.html");
   });
   document.addEventListener("DOMContentLoaded", function() {
-    addNav("aec","../HTML/NotesComponents/aec.html");
+    addNav("aec3","../HTML/NotesComponents/aec.html");
   });
   document.addEventListener("DOMContentLoaded", function() {
     addNav("itSY","../HTML/NotesComponents/itSY.html");
