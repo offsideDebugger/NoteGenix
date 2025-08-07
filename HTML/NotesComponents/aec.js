@@ -6,9 +6,8 @@ window.addEventListener('load', function() {
     
     // Sample notes data - Replace with your actual data
     const notes = [
-        { title: "English For Business Communication", id: "1cKY-4rgCWtKgeAK_0SH_z0WzWikEZduk" },
-        { title: "English for EnterPreneurship", id: "1c9lgu8Dca4uZSiwpaCYgf3tLyydnvy8z" },
-        { title: "Guide to both", id: "1c7RvRlZmsvS_7nsizWodItNL1hlaoQt8" }
+        { title: "English for EnterPreneurship", id: "1SR-ijGbm24_Yga3mHqA4Q823tdaow1Ks" },
+        { title: "Unit-2", id: "1lryFZQSTPGV98V1OVmWv9-6j0a7yH23-" }
       ];
       
       
