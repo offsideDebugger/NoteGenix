@@ -30,6 +30,10 @@ window.addEventListener('load', function() {
           title: "E-waste Rules",
           id: "1nMoiQwAxbt5PAJ-yIOwnEGazxToIhJ2f"
         },
+        {
+            title:"Mid Term Notes",
+            id:"15qkcIA6BbdXzFc8RLQfN502B9toLECQ0"
+        }
       ];
       
 
