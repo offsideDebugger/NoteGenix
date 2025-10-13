@@ -7,28 +7,28 @@ window.addEventListener('load', function() {
     // Sample notes data - Replace with your actual data
     const notes = [
         {
-          title: "Lec 1",
-          id: "1er9A6Ls7JP9RM9hZJI1rrf2UmeYo1Xot"
+          title: "Collection and Transportation of E-waste",
+          id: "1pC5CB5fxnZ2SyhaW1jRcE6vqKFsmexJb"
         },
         {
-          title: "Lec 2",
-          id: "1eyUJOXEb8oPZuCrjhu-tjMMhaGziUMzN"
+          title: "Incinerator",
+          id: "1G-G5qVXntyRjRw_kw9T8lQQe_pLFZJYa"
         },
         {
-          title: "Lec 3",
-          id: "1nQvzWHCFD5lnPio5-MfU2ABQfDMnoeva"
+          title: "Landfill",
+          id: "1l6Z9uo1EpV59Y8dr0vQtHV5jsMCYpUK4"
         },
         {
-          title: "Lec 4",
-          id: "1nBjMFJzjfaKPqpi0LUCEx5gndxcem_bQ"
+          title: "Lead Battery Recycling Techniques",
+          id: "17kyPBKu8mIsQNjdA-hH0voqgLO_t0Qw7"
         },
         {
-          title: "Lec 5",
-          id: "1nNrIwgXOttn134EpUhoqlk7vzpZrk0cg"
+          title: "The E-waste Rules",
+          id: "15BIE_M7yPV57h1M3zSUby-0OQ_KNr_OZ"
         },
         {
-          title: "E-waste Rules",
-          id: "1nMoiQwAxbt5PAJ-yIOwnEGazxToIhJ2f"
+          title: "Circular Economy Approaches",
+          id: "1rjns2cJJAIcgKSchiXpiJws5Rh7jiYjQ"
         },
         {
             title:"Mid Term Notes",
