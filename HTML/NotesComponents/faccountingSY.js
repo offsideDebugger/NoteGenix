@@ -13,7 +13,8 @@ window.addEventListener('load', function() {
             { title: "Unit 2 Final Account", id: "1GEstR9-qTvKGeeKDzaQ_JjdfrdLdNMIU" },
             { title: "Question bank", id: "1GAT0kioS16fZeu-6TCcIJtNtIbqD472S" },
             { title: "HandWritten Notes", id: "1GF8VJURMthN4rWHXZzOpxD4CvfHTswpT" },
-          
+            { id: "1mCIMgAQxEhrj_mqhiXm2TTRIZJIORSWw",title: "Preparation of Cost Sheet"},
+            { id: "1GBhoxvh6uKo8geA7F_6KlAobn9ngefqm",title: "Cost Accounting Theory"},
           
       ];
       
