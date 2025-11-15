@@ -3,8 +3,8 @@ window.addEventListener('load', function() {
     
     // Sample notes data - Replace with your actual data
  const notes = [
-  { title: "Ch-1 OS", id: "1DBOvTeGZVfPAuug4X-Ju2b7nGX8lynUj", type: "slides" },
-  { title: "Ch-1", id: "1Cq0eyMq1qqOjX5xfIYg0-hgNXt8WrJP1", type: "slides" },
+  { title: "OS Basics", id: "1DBOvTeGZVfPAuug4X-Ju2b7nGX8lynUj", type: "slides" },
+  { title: "Ch-1 OS", id: "1Cq0eyMq1qqOjX5xfIYg0-hgNXt8WrJP1", type: "slides" },
   { title: "Ch-2", id: "1Cy-JLoIOrz_ZhG2fv6rkNp4qoOzkK23s", type: "slides" },
   { title: "Ch-3 Process and IPC", id: "1DEsRoXevfNsyipmo3CXG935huitNl72y", type: "slides" },
   { title: "Process and IPC", id: "1n0d84cidOuSUNznX9CRS2cPbhwJE8D3V", type: "slides" },
@@ -14,8 +14,6 @@ window.addEventListener('load', function() {
   { title: "Ch-6", id: "10065QicupOoatEeWrsWVQDXfWSKhpK5D", type: "slides" },
   { title: "Ch-7 Deadlock", id: "1-zUQNxNDcsvSWiw6JtiKT7MjYcR74Lg3", type: "pdf" },
   { title: "Ch-7 Extra", id: "1-wqD3_kn8KgJP5lcxaLRjev_JPyFYDpX", type: "pdf" },
-  { title: "Ch-8", id: "1GR_vVEEuk6TEibxQojgz_Z3R2XjwGDWo", type: "slides" },
-  { title: "Ch-9", id: "1GPofx3PcozsxQwGYgDuNkvHV8VSZExru", type: "slides" },
   { title: "Ch-9 Main Memory", id: "1GUQ5AGPXzfvMExpx8FXZ09uKggI_g-CG", type: "slides" },
   { title: "Ch-10 Virtual Memory", id: "1GRT9QXhXDPnBJ6P4H9n3spEArkDvJIMp", type: "slides" },
   { title: "Threads", id: "1XsyDnfVre9KamjB6nbdXSA7y86hENUFt", type: "slides" },
