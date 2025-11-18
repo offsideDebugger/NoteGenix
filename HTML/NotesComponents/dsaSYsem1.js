@@ -3,7 +3,7 @@ window.addEventListener('load', function() {
     
     // Sample notes data - Replace with your actual data
 const notes = [
-  { id: "1q9CHAYtgwUZTdMn6peyuAEIi2Xb7zjgg", title: "NWhat is Algorithm ?", type: "pdf" },
+  { id: "1q9CHAYtgwUZTdMn6peyuAEIi2Xb7zjgg", title: "What is Algorithm ?", type: "pdf" },
   { id: "13RPEdLDLVd9y7KP7pzWQfwj0708ie4Vl", title: "Tree", type: "slides" },
   { id: "1ZyIFnssUvbpRWGeL2MLkPp_lrWoat-U0", title: "STL in CPP", type: "slides" },
   { id: "1NMFv17T4MfbGphtiMJm_4-klncXuXsz4", title: "Steps to find Time Complexity", type: "pdf" },
