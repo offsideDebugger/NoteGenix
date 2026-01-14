@@ -6,7 +6,7 @@ window.addEventListener('load', function() {
     
     // Sample notes data - Replace with your actual data
     const notes = [
-
+        { title:"Chapter 1 & 2 - 25/26", id:"1LsMHqWbcblG2yPxW5KJAzBv1iAt_hsV2", type:"slides" },
         { title: "Connecting Devices", id: "1POUuASIWTJaQPlbXlx_Plg3J0SH1ABAY" , type:"pdf"},
         { title: "Connecting Devices", id: "1PMoCcEXT9Pa9WqBS6kOkfkmlVveTjOEd",type:"slides" }, // Google Slides
         { title: "Transmission Media", id: "1PKNwjeVf-o_Df_2U3t9cWQH5h6nomK11" ,type:"slides" }, // Google Slides
@@ -18,7 +18,6 @@ window.addEventListener('load', function() {
        { title:"MAC", id:"1OkZBeUiruDraG2IyJSNIjyL5nFMgrAwS" , type:"slides"},
        { title:"Nework Topology", id:"1OkLvGhxMaWZLCahQIB6D3WIPz6s7rss1" , type:"slides"},
        { title:"Error Detecting", id:"1Ok-9b0wnSquOLpKO75kAlN6OvJB1e5jF" , type:"slides"},
-        { title:"Chapter 1 & 2 - 25/26", id:"1LsMHqWbcblG2yPxW5KJAzBv1iAt_hsV2", type:"slides" },
       
       ]
       
