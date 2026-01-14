@@ -17,7 +17,8 @@ window.addEventListener('load', function() {
          { title:"ipv6", id:"1OntSdviYCDr9ncUIdIkeNTNQSuvIg1Aq" , type:"slides"} ,
        { title:"MAC", id:"1OkZBeUiruDraG2IyJSNIjyL5nFMgrAwS" , type:"slides"},
        { title:"Nework Topology", id:"1OkLvGhxMaWZLCahQIB6D3WIPz6s7rss1" , type:"slides"},
-       { title:"Error Detecting", id:"1Ok-9b0wnSquOLpKO75kAlN6OvJB1e5jF" , type:"slides"}
+       { title:"Error Detecting", id:"1Ok-9b0wnSquOLpKO75kAlN6OvJB1e5jF" , type:"slides"},
+        { title:"Chapter 1 & 2 - 25/26", id:"1LsMHqWbcblG2yPxW5KJAzBv1iAt_hsV2", type:"slides" },
       
       ]
       
